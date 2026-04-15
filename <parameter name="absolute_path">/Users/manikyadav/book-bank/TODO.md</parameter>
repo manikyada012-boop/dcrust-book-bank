@@ -1,0 +1,8 @@
+<parameter name="content"># Task Progress: Fix Terminal Issues
+
+1. ✅ Create `.env.local` with Supabase keys
+2. 🔄 Update `src/lib/supabase.ts`: Safe client init  
+3. 🔄 Fix `src/app/page.tsx`: Remove unused imports
+4. 🔄 Fix `src/components/layout/Sidebar.tsx`: Type NavItem properly
+5. 🔄 Test: `npm run lint && npm run build`
+6. 🔄 Optional: Add books table validation in DonateModal</parameter>
